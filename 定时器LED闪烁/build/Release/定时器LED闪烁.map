@@ -1,0 +1,147 @@
+LX51 LINKER/LOCATER V4.66.100.0                                                         11/08/2024  22:17:29  PAGE 1
+
+
+LX51 LINKER/LOCATER V4.66.100.0, INVOKED BY:
+G:\KEIL\C51\BIN\LX51.EXE .\BUILD\RELEASE\.OBJ\SRC\COM\COM_UTIL.O, .\BUILD\RELEASE\.OBJ\SRC\DIR\DRI_TIMER0.O, .\BUILD\REL
+>> EASE\.OBJ\SRC\MAIN.O TO .\BUILD\RELEASE\定时器LED闪烁 PRINT (.\build\Release\定时器LED闪烁.map) REMOVEUNUSED
+
+
+CPU MODE:     8051 MODE
+MEMORY MODEL: SMALL
+
+
+INPUT MODULES INCLUDED:
+  .\BUILD\RELEASE\.OBJ\SRC\COM\COM_UTIL.O (COM_UTIL)
+         COMMENT TYPE 0: C51 V9.60.7.0
+  .\BUILD\RELEASE\.OBJ\SRC\DIR\DRI_TIMER0.O (DRI_TIMER0)
+         COMMENT TYPE 0: C51 V9.60.7.0
+  .\BUILD\RELEASE\.OBJ\SRC\MAIN.O (MAIN)
+         COMMENT TYPE 0: C51 V9.60.7.0
+  G:\KEIL\C51\LIB\C51S.LIB (?C_STARTUP)
+         COMMENT TYPE 1: A51 / ASM51 Assembler
+  G:\KEIL\C51\LIB\C51S.LIB (?C_INIT)
+         COMMENT TYPE 1: A51 / ASM51 Assembler
+
+
+ACTIVE MEMORY CLASSES OF MODULE:  .\BUILD\RELEASE\定时器LED闪烁 (COM_UTIL)
+
+BASE        START       END         USED      MEMORY CLASS
+==========================================================
+C:000000H   C:000000H   C:00FFFFH   00010EH   CODE
+I:000000H   I:000000H   I:00007FH   00000AH   DATA
+I:000000H   I:000000H   I:0000FFH   000001H   IDATA
+
+
+MEMORY MAP OF MODULE:  .\BUILD\RELEASE\定时器LED闪烁 (COM_UTIL)
+
+
+START     STOP      LENGTH    ALIGN  RELOC    MEMORY CLASS   SEGMENT NAME
+=========================================================================
+
+* * * * * * * * * * *   D A T A   M E M O R Y   * * * * * * * * * * * * *
+000000H   000007H   000008H   ---    AT..     DATA           "REG BANK 0"
+000008H   000009H   000002H   BYTE   UNIT     DATA           ?DT?MAIN
+00000AH   00000AH   000001H   BYTE   UNIT     IDATA          ?STACK
+
+* * * * * * * * * * *   C O D E   M E M O R Y   * * * * * * * * * * * * *
+000000H   000002H   000003H   ---    OFFS..   CODE           ?CO??C_STARTUP?0
+000003H   000007H   000005H   BYTE   UNIT     CODE           ?C_INITSEG
+000008H   00000AH   000003H   ---    ---      **GAP**
+00000BH   00000DH   000003H   BYTE   OFFS..   CODE           ?MAIN?0000B
+00000EH   000099H   00008CH   BYTE   UNIT     CODE           ?C_C51STARTUP
+00009AH   0000CAH   000031H   BYTE   UNIT     CODE           ?PR?TIMER0_HANDER?MAIN
+0000CBH   0000E4H   00001AH   BYTE   UNIT     CODE           ?PR?_DELAY1MS?COM_UTIL
+0000E5H   0000FBH   000017H   BYTE   UNIT     CODE           ?PR?MAIN?MAIN
+0000FCH   000110H   000015H   BYTE   UNIT     CODE           ?PR?TIMER0_INIT?DRI_TIMER0
+
+
+
+OVERLAY MAP OF MODULE:   .\BUILD\RELEASE\定时器LED闪烁 (COM_UTIL)
+
+
+FUNCTION/MODULE              BIT_GROUP   DATA_GROUP 
+--> CALLED FUNCTION/MODULE  START  STOP  START  STOP
+====================================================
+TIMER0_HANDER/MAIN          ----- -----  ----- -----
+
+*** NEW ROOT **************
+
+?C_C51STARTUP               ----- -----  ----- -----
+LX51 LINKER/LOCATER V4.66.100.0                                                       11/08/2024  22:17:29  PAGE 2
+
+
+  +--> MAIN/MAIN
+  +--> ?C_INITSEG
+
+MAIN/MAIN                   ----- -----  ----- -----
+  +--> TIMER0_INIT/DRI_TIMER0
+  +--> _DELAY1MS/COM_UTIL
+
+TIMER0_INIT/DRI_TIMER0      ----- -----  ----- -----
+
+_DELAY1MS/COM_UTIL          ----- -----  ----- -----
+
+?C_INITSEG                  ----- -----  ----- -----
+
+
+
+PUBLIC SYMBOLS OF MODULE:  .\BUILD\RELEASE\定时器LED闪烁 (COM_UTIL)
+
+
+      VALUE       CLASS    TYPE      PUBLIC SYMBOL NAME
+      =================================================
+      00000000H   NUMBER   ---       ?C?CODESEG
+      00000000H   NUMBER   ---       ?C?XDATASEG
+      01000055H   CODE     ---       ?C_START
+      01000000H   CODE     ---       ?C_STARTUP
+      010000CBH   CODE     ---       _Delay1ms
+      010000E5H   CODE     ---       main
+      0100009AH   CODE     ---       Timer0_Hander
+      010000FCH   CODE     ---       Timer0_Init
+
+
+
+SYMBOL TABLE OF MODULE:  .\BUILD\RELEASE\定时器LED闪烁 (COM_UTIL)
+
+      VALUE       REP       CLASS    TYPE      SYMBOL NAME
+      ====================================================
+      ---         MODULE    ---      ---       COM_UTIL
+      010000CBH   PUBLIC    CODE     ---       _Delay1ms
+
+      010000CBH   BLOCK     CODE     ---       LVL=0
+      010000CBH   BLOCK     CODE     NEAR LAB  LVL=1
+      00000005H   SYMBOL    DATA     VOID      i
+      00000004H   SYMBOL    DATA     VOID      j
+      ---         BLOCKEND  ---      ---       LVL=1
+      ---         BLOCKEND  ---      ---       LVL=0
+
+      ---         MODULE    ---      ---       DRI_TIMER0
+      010000FCH   PUBLIC    CODE     ---       Timer0_Init
+
+      010000FCH   BLOCK     CODE     ---       LVL=0
+      ---         BLOCKEND  ---      ---       LVL=0
+
+      ---         MODULE    ---      ---       MAIN
+      0100009AH   PUBLIC    CODE     ---       Timer0_Hander
+      010000E5H   PUBLIC    CODE     ---       main
+
+      010000E5H   BLOCK     CODE     ---       LVL=0
+      ---         BLOCKEND  ---      ---       LVL=0
+
+      0100009AH   BLOCK     CODE     ---       LVL=0
+      010000A3H   BLOCK     CODE     NEAR LAB  LVL=1
+      00000008H   SYMBOL    DATA     VOID      count
+      ---         BLOCKEND  ---      ---       LVL=1
+      ---         BLOCKEND  ---      ---       LVL=0
+
+      ---         MODULE    ---      ---       ?C_STARTUP
+LX51 LINKER/LOCATER V4.66.100.0                                                       11/08/2024  22:17:29  PAGE 3
+
+
+      01000000H   PUBLIC    CODE     ---       ?C_STARTUP
+
+      ---         MODULE    ---      ---       ?C_INIT
+      01000055H   PUBLIC    CODE     ---       ?C_START
+
+Program Size: data=11.0 xdata=0 const=0 code=270
+LX51 RUN COMPLETE.  0 WARNING(S),  0 ERROR(S)
