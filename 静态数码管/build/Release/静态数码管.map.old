@@ -1,0 +1,152 @@
+LX51 LINKER/LOCATER V4.66.100.0                                                         10/31/2024  09:45:28  PAGE 1
+
+
+LX51 LINKER/LOCATER V4.66.100.0, INVOKED BY:
+G:\KEIL\C51\BIN\LX51.EXE .\BUILD\RELEASE\.OBJ\SRC\MAIN.O TO .\BUILD\RELEASE\��̬����� PRINT (.\build\Release\��̬�����
+>> .map) REMOVEUNUSED
+
+
+CPU MODE:     8051 MODE
+MEMORY MODEL: SMALL
+
+
+INPUT MODULES INCLUDED:
+  .\BUILD\RELEASE\.OBJ\SRC\MAIN.O (MAIN)
+         COMMENT TYPE 0: C51 V9.60.7.0
+  G:\KEIL\C51\LIB\C51S.LIB (?C_STARTUP)
+         COMMENT TYPE 1: A51 / ASM51 Assembler
+  G:\KEIL\C51\LIB\C51S.LIB (?C?SLDIV)
+         COMMENT TYPE 1: A51 / ASM51 Assembler
+  G:\KEIL\C51\LIB\C51S.LIB (?C_INIT)
+         COMMENT TYPE 1: A51 / ASM51 Assembler
+  G:\KEIL\C51\LIB\C51S.LIB (?C?ULDIV)
+         COMMENT TYPE 1: A51 / ASM51 Assembler
+
+
+ACTIVE MEMORY CLASSES OF MODULE:  .\BUILD\RELEASE\��̬����� (MAIN)
+
+BASE        START       END         USED      MEMORY CLASS
+==========================================================
+C:000000H   C:000000H   C:00FFFFH   00027AH   CODE
+I:000000H   I:000000H   I:00007FH   000020H   DATA
+I:000000H   I:000000H   I:0000FFH   000001H   IDATA
+
+
+MEMORY MAP OF MODULE:  .\BUILD\RELEASE\��̬����� (MAIN)
+
+
+START     STOP      LENGTH    ALIGN  RELOC    MEMORY CLASS   SEGMENT NAME
+=========================================================================
+
+* * * * * * * * * * *   D A T A   M E M O R Y   * * * * * * * * * * * * *
+000000H   000007H   000008H   ---    AT..     DATA           "REG BANK 0"
+000008H   000019H   000012H   BYTE   UNIT     DATA           ?DT?MAIN
+00001AH   00001FH   000006H   BYTE   UNIT     DATA           _DATA_GROUP_
+000020H   000020H   000001H   BYTE   UNIT     IDATA          ?STACK
+
+* * * * * * * * * * *   C O D E   M E M O R Y   * * * * * * * * * * * * *
+000000H   000002H   000003H   ---    OFFS..   CODE           ?CO??C_STARTUP?0
+000003H   0000D0H   0000CEH   BYTE   UNIT     CODE           ?C?LIB_CODE
+0000D1H   00015CH   00008CH   BYTE   UNIT     CODE           ?C_C51STARTUP
+00015DH   0001D2H   000076H   BYTE   UNIT     CODE           ?PR?_DIGITALTUBE_DISPALYNUM?MAIN
+0001D3H   000216H   000044H   BYTE   UNIT     CODE           ?C?LDIV
+000217H   000238H   000022H   BYTE   UNIT     CODE           ?PR?_DIGITALTUBE_DISPLAYSINGLE?MAIN
+000239H   000257H   00001FH   BYTE   UNIT     CODE           ?PR?DIGITALTUBE_DISPALY?MAIN
+000258H   00026CH   000015H   BYTE   UNIT     CODE           ?PR?MAIN?MAIN
+00026DH   000279H   00000DH   BYTE   UNIT     CODE           ?C_INITSEG
+
+
+
+OVERLAY MAP OF MODULE:   .\BUILD\RELEASE\��̬����� (MAIN)
+
+
+FUNCTION/MODULE                       BIT_GROUP   DATA_GROUP 
+--> CALLED FUNCTION/MODULE           START  STOP  START  STOP
+=============================================================
+?C_C51STARTUP                        ----- -----  ----- -----
+  +--> MAIN/MAIN
+  +--> ?C_INITSEG
+
+LX51 LINKER/LOCATER V4.66.100.0                                                       10/31/2024  09:45:28  PAGE 2
+
+
+MAIN/MAIN                            ----- -----  ----- -----
+  +--> _DIGITALTUBE_DISPALYNUM/MAIN
+  +--> DIGITALTUBE_DISPALY/MAIN
+
+_DIGITALTUBE_DISPALYNUM/MAIN         ----- -----  001AH 001FH
+  +--> _DIGITALTUBE_DISPLAYSINGLE/MAIN
+
+_DIGITALTUBE_DISPLAYSINGLE/MAIN      ----- -----  ----- -----
+
+DIGITALTUBE_DISPALY/MAIN             ----- -----  ----- -----
+  +--> _DIGITALTUBE_DISPLAYSINGLE/MAIN
+
+?C_INITSEG                           ----- -----  ----- -----
+
+
+
+PUBLIC SYMBOLS OF MODULE:  .\BUILD\RELEASE\��̬����� (MAIN)
+
+
+      VALUE       CLASS    TYPE      PUBLIC SYMBOL NAME
+      =================================================
+      00000000H   NUMBER   ---       ?C?CODESEG
+      010001D3H   CODE     ---       ?C?SLDIV
+      0100003FH   CODE     ---       ?C?ULDIV
+      00000000H   NUMBER   ---       ?C?XDATASEG
+      01000118H   CODE     ---       ?C_START
+      01000000H   CODE     ---       ?C_STARTUP
+      0100015DH   CODE     ---       _DigitalTube_dispalyNum
+      01000217H   CODE     ---       _DigitalTube_DisplaySingle
+      01000239H   CODE     ---       DigitalTube_Dispaly
+      01000258H   CODE     ---       main
+
+
+
+SYMBOL TABLE OF MODULE:  .\BUILD\RELEASE\��̬����� (MAIN)
+
+      VALUE       REP       CLASS    TYPE      SYMBOL NAME
+      ====================================================
+      ---         MODULE    ---      ---       MAIN
+      01000258H   PUBLIC    CODE     ---       main
+      01000239H   PUBLIC    CODE     ---       DigitalTube_Dispaly
+      0100015DH   PUBLIC    CODE     ---       _DigitalTube_dispalyNum
+      01000217H   PUBLIC    CODE     ---       _DigitalTube_DisplaySingle
+
+      01000217H   BLOCK     CODE     ---       LVL=0
+      ---         BLOCKEND  ---      ---       LVL=0
+
+      0100015DH   BLOCK     CODE     ---       LVL=0
+      01000165H   BLOCK     CODE     NEAR LAB  LVL=1
+      00000006H   SYMBOL    DATA     VOID      i
+      0000001EH   SYMBOL    DATA     VOID      j
+      ---         BLOCKEND  ---      ---       LVL=1
+      ---         BLOCKEND  ---      ---       LVL=0
+
+      01000239H   BLOCK     CODE     ---       LVL=0
+      01000239H   BLOCK     CODE     NEAR LAB  LVL=1
+      00000002H   SYMBOL    DATA     VOID      i
+      ---         BLOCKEND  ---      ---       LVL=1
+      ---         BLOCKEND  ---      ---       LVL=0
+
+      01000258H   BLOCK     CODE     ---       LVL=0
+      ---         BLOCKEND  ---      ---       LVL=0
+
+      ---         MODULE    ---      ---       ?C_STARTUP
+      01000000H   PUBLIC    CODE     ---       ?C_STARTUP
+LX51 LINKER/LOCATER V4.66.100.0                                                       10/31/2024  09:45:28  PAGE 3
+
+
+
+      ---         MODULE    ---      ---       ?C?SLDIV
+      010001D3H   PUBLIC    CODE     ---       ?C?SLDIV
+
+      ---         MODULE    ---      ---       ?C_INIT
+      01000118H   PUBLIC    CODE     ---       ?C_START
+
+      ---         MODULE    ---      ---       ?C?ULDIV
+      0100003FH   PUBLIC    CODE     ---       ?C?ULDIV
+
+Program Size: data=33.0 xdata=0 const=0 code=634
+LX51 RUN COMPLETE.  0 WARNING(S),  0 ERROR(S)

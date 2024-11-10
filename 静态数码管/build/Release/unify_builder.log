@@ -1,0 +1,263 @@
+[2024-10-29 16:12:50]	compilation failed at : "g:\Keil_WorkSpace\静态数码管\src\main.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../Keil/C51/INC;src) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C318 IN LINE 1 OF .\SRC\MAIN.C: can't open file 'STC89C5xRC.H'
+*** ERROR C202 IN LINE 5 OF .\SRC\MAIN.C: 'P36': undefined identifier
+*** ERROR C202 IN LINE 6 OF .\SRC\MAIN.C: 'P13': undefined identifier
+*** ERROR C202 IN LINE 7 OF .\SRC\MAIN.C: 'P14': undefined identifier
+*** ERROR C202 IN LINE 8 OF .\SRC\MAIN.C: 'P15': undefined identifier
+*** ERROR C202 IN LINE 9 OF .\SRC\MAIN.C: 'P00': undefined identifier
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  5 ERROR(S)
+
+[2024-10-29 16:14:10]	[done]
+	build successfully !
+
+[2024-10-29 16:16:39]	[done]
+	build successfully !
+
+[2024-10-29 16:18:52]	[done]
+	build successfully !
+
+[2024-10-29 16:19:18]	[done]
+	build successfully !
+
+[2024-10-29 16:19:53]	[done]
+	build successfully !
+
+[2024-10-29 16:28:25]	compilation failed at : "g:\Keil_WorkSpace\静态数码管\src\main.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 9 OF .\SRC\MAIN.C: syntax error near 'int', expected '__asm'
+*** ERROR C202 IN LINE 9 OF .\SRC\MAIN.C: 'arry': undefined identifier
+*** ERROR C141 IN LINE 10 OF .\SRC\MAIN.C: syntax error near 'int', expected '__asm'
+*** ERROR C202 IN LINE 10 OF .\SRC\MAIN.C: 'i': undefined identifier
+*** ERROR C141 IN LINE 11 OF .\SRC\MAIN.C: syntax error near 'int', expected '__asm'
+*** ERROR C202 IN LINE 11 OF .\SRC\MAIN.C: 'hex': undefined identifier
+*** ERROR C202 IN LINE 12 OF .\SRC\MAIN.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 14 OF .\SRC\MAIN.C: 'i': undefined identifier
+*** ERROR C141 IN LINE 15 OF .\SRC\MAIN.C: syntax error near '}', expected ';'
+*** ERROR C141 IN LINE 18 OF .\SRC\MAIN.C: syntax error near 'while', expected ';'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  10 ERROR(S)
+
+[2024-10-29 16:31:46]	[done]
+	build successfully !
+
+[2024-10-29 16:40:14]	[done]
+	build successfully !
+
+[2024-10-29 16:40:39]	[done]
+	build successfully !
+
+[2024-10-29 16:43:25]	[done]
+	build successfully !
+
+[2024-10-30 19:05:24]	[done]
+	build successfully !
+
+[2024-10-30 19:10:16]	[done]
+	build successfully !
+
+[2024-10-30 19:15:01]	[done]
+	build successfully !
+
+[2024-10-30 19:15:21]	[done]
+	build successfully !
+
+[2024-10-30 19:15:45]	[done]
+	build successfully !
+
+[2024-10-30 19:19:15]	[done]
+	build successfully !
+
+[2024-10-30 19:19:45]	[done]
+	build successfully !
+
+[2024-10-30 19:20:10]	[done]
+	build successfully !
+
+[2024-10-30 19:35:53]	[done]
+	build successfully !
+
+[2024-10-30 19:36:17]	[done]
+	build successfully !
+
+[2024-10-30 19:36:31]	[done]
+	build successfully !
+
+[2024-10-30 19:36:41]	[done]
+	build successfully !
+
+[2024-10-30 19:37:48]	[done]
+	build successfully !
+
+[2024-10-30 19:38:26]	[done]
+	build successfully !
+
+[2024-10-30 19:38:47]	[done]
+	build successfully !
+
+[2024-10-30 19:43:29]	[done]
+	build successfully !
+
+[2024-10-30 19:43:53]	[done]
+	build successfully !
+
+[2024-10-30 19:45:01]	compilation failed at : "g:\Keil_WorkSpace\静态数码管\src\main.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C253 IN LINE 52 OF .\SRC\MAIN.C: map target label L8 failed
+*** ERROR C253 IN LINE 52 OF .\SRC\MAIN.C: map target label L8 failed
+*** ERROR C253 IN LINE 52 OF .\SRC\MAIN.C: map target label L8 failed
+*** ERROR C253 IN LINE 52 OF .\SRC\MAIN.C: map target label L8 failed
+*** ERROR C253 IN LINE 48 OF .\SRC\MAIN.C: map target label L8 failed
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  5 ERROR(S)
+
+[2024-10-30 19:45:50]	compilation failed at : "g:\Keil_WorkSpace\静态数码管\src\main.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C253 IN LINE 52 OF .\SRC\MAIN.C: map target label L8 failed
+*** ERROR C253 IN LINE 52 OF .\SRC\MAIN.C: map target label L8 failed
+*** ERROR C253 IN LINE 52 OF .\SRC\MAIN.C: map target label L8 failed
+*** ERROR C253 IN LINE 52 OF .\SRC\MAIN.C: map target label L8 failed
+*** ERROR C253 IN LINE 48 OF .\SRC\MAIN.C: map target label L8 failed
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  5 ERROR(S)
+
+[2024-10-30 19:49:22]	[done]
+	build successfully !
+
+[2024-10-30 19:50:33]	[done]
+	build successfully !
+
+[2024-10-31 08:25:42]	[done]
+	build successfully !
+
+[2024-10-31 08:26:27]	[done]
+	build successfully !
+
+[2024-10-31 08:27:04]	[done]
+	build successfully !
+
+[2024-10-31 08:34:47]	[done]
+	build successfully !
+
+[2024-10-31 09:05:19]	[done]
+	build successfully !
+
+[2024-10-31 09:07:13]	[done]
+	build successfully !
+
+[2024-10-31 09:07:25]	[done]
+	build successfully !
+
+[2024-10-31 09:07:35]	[done]
+	build successfully !
+
+[2024-10-31 09:15:59]	[done]
+	build successfully !
+
+[2024-10-31 09:16:49]	[done]
+	build successfully !
+
+[2024-10-31 09:21:06]	compilation failed at : "g:\Keil_WorkSpace\静态数码管\src\main.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C202 IN LINE 26 OF .\SRC\MAIN.C: 's_digital_buffer': undefined identifier
+*** ERROR C141 IN LINE 61 OF .\SRC\MAIN.C: syntax error near '}', expected ';'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2024-10-31 09:21:13]	compilation failed at : "g:\Keil_WorkSpace\静态数码管\src\main.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C202 IN LINE 26 OF .\SRC\MAIN.C: 's_digital_buffer': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+[2024-10-31 09:23:07]	[done]
+	build successfully !
+
+[2024-10-31 09:23:31]	[done]
+	build successfully !
+
+[2024-10-31 09:23:45]	[done]
+	build successfully !
+
+[2024-10-31 09:24:41]	[done]
+	build successfully !
+
+[2024-10-31 09:24:52]	[done]
+	build successfully !
+
+[2024-10-31 09:25:00]	[done]
+	build successfully !
+
+[2024-10-31 09:25:07]	[done]
+	build successfully !
+
+[2024-10-31 09:25:20]	[done]
+	build successfully !
+
+[2024-10-31 09:25:29]	[done]
+	build successfully !
+
+[2024-10-31 09:25:55]	[done]
+	build successfully !
+
+[2024-10-31 09:26:04]	[done]
+	build successfully !
+
+[2024-10-31 09:27:04]	[done]
+	build successfully !
+
+[2024-10-31 09:27:25]	[done]
+	build successfully !
+
+[2024-10-31 09:27:34]	[done]
+	build successfully !
+
+[2024-10-31 09:45:29]	[done]
+	build successfully !
+
+[2024-10-31 16:39:41]	compilation failed at : "g:\Keil_WorkSpace\静态数码管\src\main.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C206 IN LINE 64 OF .\SRC\MAIN.C: '_nop_': missing function-prototype
+*** ERROR C264 IN LINE 64 OF .\SRC\MAIN.C: intrinsic '_nop_': declaration/activation error
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  1 ERROR(S)
+
+[2024-10-31 16:40:11]	[done]
+	build successfully !
+

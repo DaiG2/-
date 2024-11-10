@@ -1,0 +1,2 @@
+.\build\Release\.obj\src\Com\Util.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\main.o TO .\build\Release\独立按键
+PRINT(.\build\Release\独立按键.map) REMOVEUNUSED
