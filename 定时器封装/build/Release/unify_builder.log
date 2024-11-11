@@ -1,0 +1,444 @@
+[2024-11-11 20:37:20]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C129 IN LINE 22 OF .\SRC\DIR\DIR_TIMER0.C: missing ';' before 's_Timer0'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+[2024-11-11 20:37:50]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C129 IN LINE 22 OF .\SRC\DIR\DIR_TIMER0.C: missing ';' before 's_Timer0'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+[2024-11-11 20:38:11]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 19 OF ../../Keil/C51/INC\STDIO.H: syntax error near ';', expected 'hdata'
+*** ERROR C129 IN LINE 22 OF ../../Keil/C51/INC\STDIO.H: missing ';' before 's_Timer0'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2024-11-11 20:38:42]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C129 IN LINE 23 OF .\SRC\DIR\DIR_TIMER0.C: missing ';' before 's_Timer0'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+[2024-11-11 20:39:19]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C129 IN LINE 24 OF .\SRC\DIR\DIR_TIMER0.C: missing ';' before 'void'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+[2024-11-11 20:39:25]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 47 OF .\SRC\DIR\DIR_TIMER0.C: syntax error near 'u8', expected '__asm'
+*** ERROR C202 IN LINE 47 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 48 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 50 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 70 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C202 IN LINE 111 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C138 IN LINE 120 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_func': interrupt() may not receive or return value(s)
+*** ERROR C202 IN LINE 129 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C211 IN LINE 131 OF .\SRC\DIR\DIR_TIMER0.C: call not to a function
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  9 ERROR(S)
+
+[2024-11-11 20:39:35]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C129 IN LINE 23 OF .\SRC\DIR\DIR_TIMER0.C: missing ';' before 's_Timer0'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+[2024-11-11 20:40:25]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C129 IN LINE 24 OF .\SRC\DIR\DIR_TIMER0.C: missing ';' before 's_Timer0'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+[2024-11-11 20:43:20]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C129 IN LINE 22 OF .\SRC\DIR\DIR_TIMER0.C: missing ';' before 's_Timer0'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+[2024-11-11 20:44:25]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 46 OF .\SRC\DIR\DIR_TIMER0.C: syntax error near 'u8', expected '__asm'
+*** ERROR C202 IN LINE 46 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 47 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 49 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 69 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C202 IN LINE 110 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C138 IN LINE 119 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_func': interrupt() may not receive or return value(s)
+*** ERROR C202 IN LINE 128 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C211 IN LINE 130 OF .\SRC\DIR\DIR_TIMER0.C: call not to a function
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  9 ERROR(S)
+
+[2024-11-11 21:00:52]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 46 OF .\SRC\DIR\DIR_TIMER0.C: syntax error near 'u8', expected '__asm'
+*** ERROR C202 IN LINE 46 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 47 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 49 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C158 IN LINE 62 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_Register': function contains unnamed parameter
+*** ERROR C202 IN LINE 69 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C141 IN LINE 83 OF .\SRC\DIR\DIR_TIMER0.C: syntax error near 'fun', expected 'sizeof'
+*** ERROR C141 IN LINE 89 OF .\SRC\DIR\DIR_TIMER0.C: syntax error near 'fun', expected 'sizeof'
+*** ERROR C158 IN LINE 103 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_DeRegister': function contains unnamed parameter
+*** ERROR C141 IN LINE 108 OF .\SRC\DIR\DIR_TIMER0.C: syntax error near 'fun', expected 'sizeof'
+*** ERROR C202 IN LINE 110 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C158 IN LINE 119 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_func': function contains unnamed parameter
+*** ERROR C138 IN LINE 119 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_func': interrupt() may not receive or return value(s)
+*** ERROR C202 IN LINE 128 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C211 IN LINE 130 OF .\SRC\DIR\DIR_TIMER0.C: call not to a function
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  15 ERROR(S)
+
+[2024-11-11 21:01:31]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 46 OF .\SRC\DIR\DIR_TIMER0.C: syntax error near 'u8', expected '__asm'
+*** ERROR C202 IN LINE 46 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 47 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 49 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C158 IN LINE 62 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_Register': function contains unnamed parameter
+*** ERROR C202 IN LINE 69 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C141 IN LINE 83 OF .\SRC\DIR\DIR_TIMER0.C: syntax error near 'fun', expected 'sizeof'
+*** ERROR C141 IN LINE 89 OF .\SRC\DIR\DIR_TIMER0.C: syntax error near 'fun', expected 'sizeof'
+*** ERROR C158 IN LINE 103 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_DeRegister': function contains unnamed parameter
+*** ERROR C141 IN LINE 108 OF .\SRC\DIR\DIR_TIMER0.C: syntax error near 'fun', expected 'sizeof'
+*** ERROR C202 IN LINE 110 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C158 IN LINE 119 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_func': function contains unnamed parameter
+*** ERROR C138 IN LINE 119 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_func': interrupt() may not receive or return value(s)
+*** ERROR C202 IN LINE 128 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C211 IN LINE 130 OF .\SRC\DIR\DIR_TIMER0.C: call not to a function
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  15 ERROR(S)
+
+[2024-11-11 21:23:51]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 46 OF .\SRC\DIR\DIR_TIMER0.C: syntax error near 'u8', expected '__asm'
+*** ERROR C202 IN LINE 46 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 47 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 49 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 69 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C202 IN LINE 110 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C138 IN LINE 119 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_func': interrupt() may not receive or return value(s)
+*** ERROR C202 IN LINE 128 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C211 IN LINE 130 OF .\SRC\DIR\DIR_TIMER0.C: call not to a function
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  9 ERROR(S)
+
+[2024-11-11 21:25:14]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 46 OF .\SRC\DIR\DIR_TIMER0.C: syntax error near 'u8', expected '__asm'
+*** ERROR C202 IN LINE 46 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 47 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 49 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 69 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C202 IN LINE 110 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C138 IN LINE 119 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_func': interrupt() may not receive or return value(s)
+*** ERROR C202 IN LINE 128 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C211 IN LINE 130 OF .\SRC\DIR\DIR_TIMER0.C: call not to a function
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  9 ERROR(S)
+
+[2024-11-11 21:27:12]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 45 OF .\SRC\DIR\DIR_TIMER0.C: syntax error near 'u8', expected '__asm'
+*** ERROR C202 IN LINE 45 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 46 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 48 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 68 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C202 IN LINE 109 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C138 IN LINE 118 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_func': interrupt() may not receive or return value(s)
+*** ERROR C202 IN LINE 127 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C211 IN LINE 129 OF .\SRC\DIR\DIR_TIMER0.C: call not to a function
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  9 ERROR(S)
+
+[2024-11-11 21:28:04]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 46 OF .\SRC\DIR\DIR_TIMER0.C: syntax error near 'u8', expected '__asm'
+*** ERROR C202 IN LINE 46 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 47 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 49 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 69 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C202 IN LINE 110 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C138 IN LINE 119 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_func': interrupt() may not receive or return value(s)
+*** ERROR C202 IN LINE 128 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C211 IN LINE 130 OF .\SRC\DIR\DIR_TIMER0.C: call not to a function
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  9 ERROR(S)
+
+[2024-11-11 21:34:31]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 45 OF .\SRC\DIR\DIR_TIMER0.C: syntax error near 'u8', expected '__asm'
+*** ERROR C202 IN LINE 45 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 46 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 48 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 68 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C202 IN LINE 109 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C138 IN LINE 118 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_func': interrupt() may not receive or return value(s)
+*** ERROR C202 IN LINE 127 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C211 IN LINE 129 OF .\SRC\DIR\DIR_TIMER0.C: call not to a function
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  9 ERROR(S)
+
+[2024-11-11 21:35:19]	[done]
+	build successfully !
+
+[2024-11-11 21:36:11]	[done]
+	build successfully !
+
+[2024-11-11 21:36:32]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 30 OF .\SRC\DIR\DIR_TIMER0.C: syntax error near 'u8', expected '__asm'
+*** ERROR C202 IN LINE 30 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 31 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 33 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  4 ERROR(S)
+
+[2024-11-11 21:36:46]	[done]
+	build successfully !
+
+[2024-11-11 21:36:55]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 30 OF .\SRC\DIR\DIR_TIMER0.C: syntax error near 'u8', expected '__asm'
+*** ERROR C202 IN LINE 30 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2024-11-11 21:37:34]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 30 OF .\SRC\DIR\DIR_TIMER0.C: syntax error near 'int', expected '__asm'
+*** ERROR C202 IN LINE 30 OF .\SRC\DIR\DIR_TIMER0.C: 'i': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2024-11-11 21:38:07]	[done]
+	build successfully !
+
+[2024-11-11 21:38:33]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C202 IN LINE 32 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+[2024-11-11 21:38:52]	[done]
+	build successfully !
+
+[2024-11-11 21:39:20]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C202 IN LINE 52 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+[2024-11-11 21:39:31]	[done]
+	build successfully !
+
+[2024-11-11 21:39:48]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C202 IN LINE 92 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C138 IN LINE 101 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_func': interrupt() may not receive or return value(s)
+*** ERROR C202 IN LINE 110 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C211 IN LINE 112 OF .\SRC\DIR\DIR_TIMER0.C: call not to a function
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  4 ERROR(S)
+
+[2024-11-11 21:39:55]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C202 IN LINE 92 OF .\SRC\DIR\DIR_TIMER0.C: 'null': undefined identifier
+*** ERROR C138 IN LINE 101 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_func': interrupt() may not receive or return value(s)
+*** ERROR C211 IN LINE 112 OF .\SRC\DIR\DIR_TIMER0.C: call not to a function
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  3 ERROR(S)
+
+[2024-11-11 21:40:30]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C275 IN LINE 92 OF .\SRC\DIR\DIR_TIMER0.C: expression with possibly no effect
+*** ERROR C138 IN LINE 101 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_func': interrupt() may not receive or return value(s)
+*** ERROR C211 IN LINE 112 OF .\SRC\DIR\DIR_TIMER0.C: call not to a function
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  2 ERROR(S)
+
+[2024-11-11 21:41:19]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\Dir\Dir_Timer0.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\Dir\Dir_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dir\Dir_Timer0.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dir\Dir_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C275 IN LINE 92 OF .\SRC\DIR\DIR_TIMER0.C: expression with possibly no effect
+*** ERROR C138 IN LINE 101 OF .\SRC\DIR\DIR_TIMER0.C: '_Dri_Timer0_func': interrupt() may not receive or return value(s)
+*** ERROR C211 IN LINE 112 OF .\SRC\DIR\DIR_TIMER0.C: call not to a function
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  2 ERROR(S)
+
+[2024-11-11 21:41:34]	[done]
+	build successfully !
+
+[2024-11-11 21:42:10]	[done]
+	build successfully !
+
+[2024-11-11 21:42:59]	[done]
+	build successfully !
+
+[2024-11-11 21:53:19]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\main.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 20 OF .\SRC\MAIN.C: syntax error near 'if', expected ';'
+*** ERROR C141 IN LINE 24 OF .\SRC\MAIN.C: syntax error near '}', expected ';'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2024-11-11 21:53:39]	compilation failed at : "g:\Keil_WorkSpace\定时器封装\src\main.c", exit code: 2
+command: 
+  "G:\Keil\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../Keil/C51/INC/STC;../../Keil/C51/INC;src;src/Com;src/Dir) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-R6FFNC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 24 OF .\SRC\MAIN.C: syntax error near '}', expected ';'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+[2024-11-11 21:53:44]	[done]
+	build successfully !
+
+[2024-11-11 21:53:59]	[done]
+	build successfully !
+
+[2024-11-11 21:54:08]	[done]
+	build successfully !
+
