@@ -1,0 +1,86 @@
+{
+    "name": "静态点阵LED",
+    "target": "Release",
+    "toolchain": "Keil_C51",
+    "toolchainLocation": "G:\\Keil\\C51",
+    "toolchainCfgFile": "c:\\Users\\14694\\.vscode\\extensions\\cl.eide-3.20.0\\res\\data\\models\\win32/8051.keil.model.json",
+    "buildMode": "normal|multhread",
+    "showRepathOnLog": true,
+    "threadNum": 20,
+    "rootDir": "g:\\Keil_WorkSpace\\静态点阵LED",
+    "dumpPath": "build\\Release",
+    "outDir": "build\\Release",
+    "incDirs": [
+        "../../Keil/C51/INC/STC",
+        "../../Keil/C51/INC",
+        "src",
+        "src/Int",
+        "src/Com",
+        "src/Dir"
+    ],
+    "libDirs": [],
+    "defines": [
+        "__UVISION_VERSION=526"
+    ],
+    "sourceList": [
+        "src/Com/Com_Util.c",
+        "src/Dir/Dir_Timer0.c",
+        "src/Int/Int_MatrixLED.c",
+        "src/main.c"
+    ],
+    "sourceParams": {},
+    "sourceParamsMtime": 1730366507140.9,
+    "options": {
+        "version": 2,
+        "beforeBuildTasks": [],
+        "afterBuildTasks": [],
+        "global": {
+            "ram-mode": "SMALL",
+            "rom-mode": "LARGE"
+        },
+        "c/cpp-compiler": {
+            "optimization-type": "SPEED",
+            "optimization-level": "level-8",
+            "optimization": "8,SPEED"
+        },
+        "asm-compiler": {},
+        "linker": {
+            "remove-unused": true,
+            "output-format": "elf"
+        }
+    },
+    "env": {
+        "workspaceFolder": "g:\\Keil_WorkSpace\\静态点阵LED",
+        "workspaceFolderBasename": "静态点阵LED",
+        "OutDir": "g:\\Keil_WorkSpace\\静态点阵LED\\build\\Release",
+        "OutDirRoot": "build",
+        "OutDirBase": "build\\Release",
+        "ProjectName": "静态点阵LED",
+        "ConfigName": "Release",
+        "ProjectRoot": "g:\\Keil_WorkSpace\\静态点阵LED",
+        "ExecutableName": "g:\\Keil_WorkSpace\\静态点阵LED\\build\\Release\\静态点阵LED",
+        "ChipPackDir": "",
+        "ChipName": "",
+        "SYS_Platform": "win32",
+        "SYS_DirSep": "\\",
+        "SYS_DirSeparator": "\\",
+        "SYS_PathSep": ";",
+        "SYS_PathSeparator": ";",
+        "SYS_EOL": "\r\n",
+        "EIDE_BUILDER_DIR": "c:\\Users\\14694\\.vscode\\extensions\\cl.eide-3.20.0\\res\\tools\\win32\\unify_builder",
+        "EIDE_BINARIES_VER": "12.0.1",
+        "EIDE_MSYS": "C:\\Users\\14694\\.eide\\bin\\builder\\msys\\bin",
+        "EIDE_TOOL_OPENOCD": ".",
+        "ToolchainRoot": "G:\\Keil\\C51"
+    },
+    "sysPaths": [],
+    "sha": {
+        "c/cpp-defines": "b5babb9cacba6494fa0692e84c1cf8da",
+        "beforeBuildTasks": "d751713988987e9331980363e24189ce",
+        "afterBuildTasks": "d751713988987e9331980363e24189ce",
+        "global": "c16529a49a409094a87f0219fb297e41",
+        "c/cpp-compiler": "d6401cb3a45dab99a8d0301dd2b94e32",
+        "asm-compiler": "99914b932bd37a50b983c5e7c90ae93b",
+        "linker": "8f1ebe355af85e07f74ac5fb45fcd416"
+    }
+}

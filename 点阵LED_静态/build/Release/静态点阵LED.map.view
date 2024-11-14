@@ -1,0 +1,3 @@
+tool: KEIL_C51
+fileName: 静态点阵LED.map
+elfName: 静态点阵LED
